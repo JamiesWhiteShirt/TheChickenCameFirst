@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tccf",
+  "name": "The Chicken Came First",
+  "description": "No, the chicken came first.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JamiesWhiteShirt"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
